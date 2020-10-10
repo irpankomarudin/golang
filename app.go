@@ -8,6 +8,7 @@ import (
 )
 
 // Response is just a very basic example.
+//example edit
 type Response struct {
 	Status string `json:"status,omitempty"`
 }
